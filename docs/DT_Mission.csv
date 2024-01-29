@@ -1,0 +1,13 @@
+﻿---,Time,Interaction_Limit,Survive_Limit,Fail_Monster,Monster_Buff,SuccesPoint,EXP,Panalty_Dam
+1,30,30,4,/Script/Engine.BlueprintGeneratedClass'/Game/1_Ours/Charactors/BP_Ai_Gobline.BP_Ai_Gobline_C',1.2,10,4,5
+2,30,30,4,/Script/Engine.BlueprintGeneratedClass'/Game/1_Ours/Charactors/BP_Ai_Gobline.BP_Ai_Gobline_C',1.5,11,4,5
+3,30,30,4,/Script/Engine.BlueprintGeneratedClass'/Game/1_Ours/Charactors/BP_Ai_Gobline.BP_Ai_Gobline_C',1.8,13,4,5
+4,25,30,3,/Script/Engine.BlueprintGeneratedClass'/Game/1_Ours/Charactors/BP_Ai_Ghoul.BP_Ai_Ghoul_C',1.2,16,6,5
+5,25,30,3,/Script/Engine.BlueprintGeneratedClass'/Game/1_Ours/Charactors/BP_Ai_Ghoul.BP_Ai_Ghoul_C',1.2,20,6,6
+6,25,20,3,/Script/Engine.BlueprintGeneratedClass'/Game/1_Ours/Charactors/BP_Ai_Ghoul.BP_Ai_Ghoul_C',1.4,25,6,6
+7,25,20,3,/Script/Engine.BlueprintGeneratedClass'/Game/1_Ours/Charactors/BP_Ai_Ghoul.BP_Ai_Ghoul_C',1.4,31,8,6
+8,25,20,3,/Script/Engine.BlueprintGeneratedClass'/Game/1_Ours/Charactors/BP_Ai_Ghoul.BP_Ai_Ghoul_C',1.4,38,8,6
+9,20,20,3,/Script/Engine.BlueprintGeneratedClass'/Game/1_Ours/Charactors/BP_Ai_Ghoul.BP_Ai_Ghoul_C',1.4,46,9,6
+10,20,20,3,/Script/Engine.BlueprintGeneratedClass'/Game/1_Ours/Charactors/BP_Ai_Ghoul.BP_Ai_Ghoul_C',1.4,55,9,6
+11,20,20,3,/Script/Engine.BlueprintGeneratedClass'/Game/1_Ours/Charactors/BP_Ai_Ghoul.BP_Ai_Ghoul_C',1.4,65,9,7
+12,20,20,3,/Script/Engine.BlueprintGeneratedClass'/Game/1_Ours/Charactors/BP_Ai_Ghoul.BP_Ai_Ghoul_C',1.4,76,9,7
