@@ -3,7 +3,7 @@ Max_HP_UP,0,최대 생명력,/Script/Engine.Texture2D'/Game/1_Ours/Resources/2D/
 Range_UP,1,사거리,/Script/Engine.Texture2D'/Game/1_Ours/Resources/2D/UI2d/1_RangeUP.1_RangeUP',증가
 Damage_UP,2,데미지,/Script/Engine.Texture2D'/Game/1_Ours/Resources/2D/UI2d/2_DamUP.2_DamUP',증가
 Bullet_Speed_UP,3,탄 속도,/Script/Engine.Texture2D'/Game/1_Ours/Resources/2D/UI2d/3_BulletSpeedUP.3_BulletSpeedUP',증가
-Shoot_Cool_Down,4,발사 속도,/Script/Engine.Texture2D'/Game/1_Ours/Resources/2D/UI2d/3_BulletSpeedUP.3_BulletSpeedUP',증가
+Shoot_Cool_Down,4,발사 속도,/Script/Engine.Texture2D'/Game/1_Ours/Resources/2D/UI2d/3_BulletSpeedUP.3_BulletSpeedUP', 
 Immediate_Recovery,5,생명력,/Script/Engine.Texture2D'/Game/1_Ours/Resources/2D/UI2d/5_NowUP.5_NowUP',% 회복
 Gradual_Recovery,6,회복력,/Script/Engine.Texture2D'/Game/1_Ours/Resources/2D/UI2d/6_GraUP.6_GraUP',증가
 Move_Speed_UP,7,이동 속도,/Script/Engine.Texture2D'/Game/1_Ours/Resources/2D/UI2d/7_MoveSpeedUP.7_MoveSpeedUP',증가
